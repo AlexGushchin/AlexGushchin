@@ -12,6 +12,7 @@
 
 ### 💡 Основные компетенции 💡
 - Инструменты: Python
+- Кредитный анализ
 
 ### ⚡️ В настоящее время ⚡️
 - Учусь в SkillFactory (Data Science)
@@ -27,11 +28,12 @@
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
  - The State University of Management (2009), Financial Management :bank:
-* Working for a rating agemcy ACRA (AO) :crystal_ball:
+* Working for a rating agency ACRA (AO) :crystal_ball:
 * Director, Corporate Rating Group
 
 ### 💡 Core competencies 💡
 - Tools: Python
+- Credit Analysis
 
 ### ⚡️ Currently ⚡️
 - Studying at SkillFactory (Data Science)
